@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/*"
-to = "/api.html"
+to = "/weather.html"
 status = 200
